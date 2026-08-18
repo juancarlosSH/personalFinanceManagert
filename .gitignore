@@ -1,0 +1,8 @@
+# Personal learning-process notes — not pushed to GitHub
+CLAUDE.md
+
+# Environment variables with sensitive data (passwords, secrets)
+.env
+
+# (Typical Python/Node entries will be added once backend/ and frontend/
+# exist: __pycache__/, node_modules/, .venv/, dist/, etc.)
